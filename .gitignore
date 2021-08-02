@@ -2,3 +2,7 @@
 */__pycache__/
 
 iunctus.egg-info/
+
+iunctus/utils/__pycache__/
+
+iunctus/cli/__pycache__/
